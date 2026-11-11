@@ -53,7 +53,7 @@ HTTP ENDPOINTS:
 // ============================================================
 
 const char* WIFI_SSID     = "USERID";
-const char* WIFI_PASSWORD = "11221122";
+const char* WIFI_PASSWORD = "PASSWORD";
 
 // ============================================================
 // GEMINI API KEY
